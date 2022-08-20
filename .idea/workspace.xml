@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81c0119d-349a-4e96-b704-7a3dd592143f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28xosEFrpilpWLwAmJDml66MTcK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\flutter\training\maltimedia\src\com\company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\flutter\training\maltimedia\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Multimedeapro">
+    <configuration name="FileOpener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.FileOpener" />
+      <module name="maltimedia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="maltimedia" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multimedeapro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Multimedeapro" />
+      <module name="maltimedia" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FileOpener" />
+      <item itemvalue="Application.Multimedeapro" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Multimedeapro" />
+        <item itemvalue="Application.FileOpener" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81c0119d-349a-4e96-b704-7a3dd592143f" name="Default Changelist" comment="" />
+      <created>1652167802447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652167802447</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Project_Structure" timestamp="1652257714505">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1652257714505" />
+    <state x="509" y="250" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1652198868679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="509" y="250" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1652198868679" />
+    <state x="413" y="66" key="FileChooserDialogImpl" timestamp="1652425197671">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="66" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1652425197671" />
+    <state width="1311" height="214" key="GridCell.Tab.0.bottom" timestamp="1653119501424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="153" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1652177362479" />
+    <state width="1311" height="214" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1653119501424" />
+    <state width="1311" height="214" key="GridCell.Tab.0.center" timestamp="1653119501424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="153" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1652177362479" />
+    <state width="1311" height="214" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1653119501424" />
+    <state width="1311" height="214" key="GridCell.Tab.0.left" timestamp="1653119501424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="153" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1652177362479" />
+    <state width="1311" height="214" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1653119501424" />
+    <state width="1311" height="214" key="GridCell.Tab.0.right" timestamp="1653119501424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1225" height="153" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1652177362479" />
+    <state width="1311" height="214" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1653119501424" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1652203784891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1652203784891" />
+    <state x="227" y="158" key="run.anything.popup" timestamp="1652251425658">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="150" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1652173311035" />
+    <state x="227" y="158" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1652251425658" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1652261923044">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1652261923044" />
+  </component>
+</project>
